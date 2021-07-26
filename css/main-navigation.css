@@ -1,3 +1,5 @@
 .main-navigation {
-    
+    display: flex;
+    align-items: center;
+    margin-right: 60px;
 }
