@@ -1,0 +1,10 @@
+.main-button {
+    background: linear-gradient(to right, hsl(176, 68%, 64%),hsl(198, 60%, 50%));
+    font-family: 'Raleway' ,sans-serif;
+    font-weight: 40px;
+    font-size: 16px;
+    color: white;
+    padding: 20px 80px;
+    text-decoration: none;
+    border-radius: 50px;
+}
