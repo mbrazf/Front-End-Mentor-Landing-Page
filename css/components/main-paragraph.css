@@ -1,0 +1,15 @@
+.main-paragraph {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: white;
+    margin-bottom: 60px;
+}
+
+.main-paragraph.-second {
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 400;
+        font-size: 18px;
+        color: white;
+        padding-top: 10px;
+}
