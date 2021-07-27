@@ -1,0 +1,73 @@
+.main-footer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-color: hsl(218, 50%, 9%);
+    width: 100%;
+    height: 600px;
+}
+
+.grid-container {
+    width: 100%;
+    padding-top: 200px;
+    margin: 0 100px;
+    display: grid;
+    grid-template-columns: 200px 250px 150px 150px 150px ;
+    gap: 60px;
+}
+
+.grid1{
+    background-color: chocolate;
+}
+
+.grid2{
+    text-align: start;
+    background-color: chartreuse;
+}
+
+.grid2 > h3 {
+    float: right;
+}
+
+.grid3{
+    display: flex;
+    flex-direction: column;
+}
+
+.grid4{
+    display: flex;
+    flex-direction: column;
+}
+
+.grid5{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+ 
+}
+
+.icon-social {
+    color: white;
+    width: 32px;
+    height: 32px;
+    border-radius: 10px  ;
+}
+
+.grid4 > a {
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.grid3 > a {
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}

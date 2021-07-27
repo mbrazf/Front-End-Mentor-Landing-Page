@@ -1,0 +1,17 @@
+.third-section {
+    display: flex;
+    align-items: center;
+    background-color: hsl(218, 28%, 13%);
+    width: 100%;
+    height: 500px;
+    padding-top:  20px;
+    
+}
+
+.text-third-section {
+    padding: 60px;
+}
+
+.image-third-section {
+    margin-left: 80px;
+}

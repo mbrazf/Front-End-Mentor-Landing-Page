@@ -1,0 +1,21 @@
+.main-form {
+    position: absolute;
+    right: 233px;
+    left: 233px;
+    top: 350px;
+    background-color: hsl(222, 26%, 15%);
+    border-radius: 10px;
+    text-align: center;
+    width: 800px;
+    height: 200px;
+    margin: 200px auto;
+    padding: 30px;
+    box-shadow: 10px 5px 20px black;
+}
+
+.main-input {
+    width: 400px;
+    padding: 15px 40px;
+    border-radius: 50px;
+    margin-right: 20px;
+}
