@@ -1,4 +1,4 @@
-.main-paragraph-first {
+.main-paragraph {
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-size: 18px;
@@ -6,26 +6,36 @@
     margin-bottom: 60px;
 }
 
+
+
 .main-paragraph-second {
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-size: 18px;
     color: white;
     margin-top: 20px;
+    margin-bottom: 30px;
 }
+
 
 .main-paragraph-third {
-    font-family: 'Open Sans', sans-serif;
-    font-weight: 400;
-    font-size: 18px;
-    color: white;
-    margin-bottom: 20px;
-}
-
-.main-paragraph-fourth {
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-size: 14px;
     color: white;
     margin-bottom: 30px;
+}
+
+.attribution {
+    color: white;
+    text-decoration: none;
+}
+
+.attribution a {
+    text-decoration: none;
+    color: white;
+}
+
+.attribution a:hover{
+    color:  hsl(176, 68%, 64%);
 }

@@ -7,6 +7,10 @@
     margin-left: 50px;
 }
 
+.action:hover{
+    color:  hsl(176, 68%, 64%);
+}
+
 
 .action-second {
     font-family: 'Raleway', sans-serif;
@@ -15,5 +19,15 @@
     line-height: 16px;
     color:  hsl(176, 68%, 64%);
     text-decoration: none;
-    border-bottom: 2px solid hsl(176, 68%, 64%);;
+    border-bottom: 2px solid hsl(176, 68%, 64%);
+    
+}
+
+.action-second:hover{
+    color:  hsl(176, 68%, 64%);
+}
+
+
+.action-third:hover{
+    color:  hsl(176, 68%, 64%);
 }
