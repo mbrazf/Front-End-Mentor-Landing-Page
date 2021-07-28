@@ -12,8 +12,8 @@ Esta é uma solução para o desafio [Fylo dark theme landing page no Frontend M
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: (https://github.com/mbrazf/Front-End-Mentor-Landing-Page)
+- Live Site URL: (https://front-end-mentor-landing-page-phi.vercel.app/)
 
 
 ### Built with/ Feito com
