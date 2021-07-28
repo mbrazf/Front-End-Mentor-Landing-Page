@@ -1,7 +1,6 @@
 .main-button {
     background: linear-gradient(to right, hsl(176, 68%, 64%),hsl(198, 60%, 50%));
     font-family: 'Raleway' ,sans-serif;
-    font-weight: 40px;
     font-size: 18px;
     color: white;
     padding: 20px 100px;
@@ -9,7 +8,12 @@
     border-radius: 50px;
 }
 
-.main-button.-second {
+.main-button.-margin {
+    margin-bottom: 50px;
+}
+
+
+.main-button-second {
     background: linear-gradient(to right, hsl(176, 68%, 64%),hsl(198, 60%, 50%));
     font-family: 'Raleway' ,sans-serif;
     font-weight: 400;
@@ -18,4 +22,6 @@
     padding: 15px 40px;
     text-decoration: none;
     border-radius: 50px;
+    cursor: pointer;
 }
+
