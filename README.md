@@ -6,7 +6,8 @@ Esta é uma solução para o desafio [Fylo dark theme landing page no Frontend M
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![screencapture-png](https://user-images.githubusercontent.com/72533693/127381776-3bfec8e0-672b-42bf-8908-e84c6ca330d9.png)
+
 
 ### Links
 
